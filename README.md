@@ -5,7 +5,6 @@ The course(CPS393) introduces the UNIX operating system, and the C and C++ langu
 
 <details><summary><b>Assignment #2</b></summary>
 <pre>
-```
 CPS393 Assignment 1
 You can view this file in a number of ways:
 just look at this raw html (e.g, cat, more, vim, etc)
@@ -75,4 +74,5 @@ To Check your Marks: use D2L
 
 If the submit programs are not in your path, you can use their absolute path name, as in:
 /usr/courses/bin/x86_64/submit-cps393dwoit filename
-```
+</pre>
+</details>

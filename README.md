@@ -77,7 +77,7 @@ If the submit programs are not in your path, you can use their absolute path nam
 </pre>
 </details>
 
-<details><summary><b>Assignment #1</b></summary>
+<details><summary><b>Assignment #2</b></summary>
 <pre>
 
 CPS393 Assignment 2 W19
@@ -91,7 +91,7 @@ Consider,X, a (mathematical) vector with n items, where each item is
 of type double, and where n is in [1-9].
      X=[v1,v2, ... vn]
 X's length, N, is defined as: 
-     N=sqrt(v1**2 + v2**2 + ... + vn**2), where "x**2" denotes x squared
+     N=sqrt(v1^2 + v2^2 + ... + vn^2), where "x^2" denotes x squared
 X normalized is defined as:
      [v1/N, v2/N, ... vn/N]
 
